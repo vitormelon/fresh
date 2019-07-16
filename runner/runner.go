@@ -7,7 +7,7 @@ import (
 )
 
 func run() bool {
-	runnerLog("Running...")
+	runnerLog("RODANDOOOOOOO...")
 	fmt.Println(buildPath())
 	cmd := exec.Command("dlv", "debug", "--listen=:40000", "--headless=true", "--api-version=2", "--log")
 

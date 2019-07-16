@@ -15,8 +15,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/pilu/fresh/runner"
 	"os"
+	"runner/"
 )
 
 func main() {

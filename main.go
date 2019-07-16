@@ -16,7 +16,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"runner/"
+
+	"./runner"
 )
 
 func main() {
